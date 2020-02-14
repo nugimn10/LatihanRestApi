@@ -1,0 +1,14 @@
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\LathianRestApi.exe
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\LathianRestApi.deps.json
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\LathianRestApi.runtimeconfig.json
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\LathianRestApi.runtimeconfig.dev.json
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\LathianRestApi.dll
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\LathianRestApi.pdb
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\McMaster.Extensions.CommandLineUtils.dll
+D:\Data\Gigaming\LathianRestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Data\Gigaming\LathianRestApi\obj\Debug\netcoreapp3.1\LathianRestApi.csprojAssemblyReference.cache
+D:\Data\Gigaming\LathianRestApi\obj\Debug\netcoreapp3.1\LathianRestApi.AssemblyInfoInputs.cache
+D:\Data\Gigaming\LathianRestApi\obj\Debug\netcoreapp3.1\LathianRestApi.AssemblyInfo.cs
+D:\Data\Gigaming\LathianRestApi\obj\Debug\netcoreapp3.1\LathianRestApi.csproj.CopyComplete
+D:\Data\Gigaming\LathianRestApi\obj\Debug\netcoreapp3.1\LathianRestApi.dll
+D:\Data\Gigaming\LathianRestApi\obj\Debug\netcoreapp3.1\LathianRestApi.pdb
